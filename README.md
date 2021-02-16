@@ -3,4 +3,4 @@
 This is highly simplified, i.e making simpllifying assumtipions.
 e.g Not applying geometric brownian motion
 
-It is not a perfect simutlation model  
+It is NOT a perfect simutlation model  
