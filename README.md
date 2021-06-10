@@ -3,7 +3,7 @@
 This is highly simplified, it makes simplified assumptions e.g it does apply geometric brownian motion
 It is NOT a perfect model simulation
 
-#Libaries
+###Libaries
 
 yFinance: To retrive stock prices
 Numpy: for calcuations and to gnerate random numbers
@@ -32,10 +32,10 @@ Then take the cumulative product of that operation to get the gernated prices fo
 
 The Ren Walk of the tesla price of the next 252 trading days based ont e random ganerated numbes in the number distribution
 
-[Ren Walk Image]() 
+[Ren Walk Image](https://github.com/EziOzoani/Simplified_Stock_Price_Simulation/blob/master/Images/Single%20Ren.png) 
 
 Create multiple random walks 
 Note: Black line is reference price
 
-[Multi Ren Walk Image]()
+[Multi Ren Walk Image](https://github.com/EziOzoani/Simplified_Stock_Price_Simulation/blob/master/Images/Multi%20Ren.png)
    
