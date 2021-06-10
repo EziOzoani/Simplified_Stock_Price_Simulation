@@ -3,10 +3,10 @@
 This is highly simplified, it makes simplified assumptions e.g it does apply geometric brownian motion
 It is NOT a perfect model simulation
 
-### Libaries
+### Libraries
 
 yFinance: To retrive stock prices
-Numpy: for calcuations and to gnerate random numbers
+Numpy: for calcuations and to generate random numbers
 Matplotlib: result visualisations 
 
 The stock used is the tesla stock, only the adjusted closing price is stored in the datafreme. 
@@ -15,11 +15,12 @@ The stock used is the tesla stock, only the adjusted closing price is stored in 
 ## Calculate Returns
 
 Need the returns in order to define the paremetrs for the random function. To retieve daily reutnes
-the pct_change() function is called, along with te log(), to normailse the results 
+the pct_change() function is called, along with te log(), to normalise the results 
 
 Random Function: Based on a normal distriubtion with the given parameters:
                  
    μ for the mean return of tesla 
+   
    Sigma which retruns σ
    
 ## Get Simulated Prices
