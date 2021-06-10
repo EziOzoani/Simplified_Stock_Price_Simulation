@@ -38,5 +38,5 @@ The Ren Walk of the tesla price of the next 252 trading days based ont e random 
 Create multiple random walks 
 Note: Black line is reference price
 
-!Multi Ren Walk Image](https://github.com/EziOzoani/Simplified_Stock_Price_Simulation/blob/master/Images/Multi%20Ren.png)
+![Multi Ren Walk Image](https://github.com/EziOzoani/Simplified_Stock_Price_Simulation/blob/master/Images/Multi%20Ren.png)
    
