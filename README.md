@@ -5,9 +5,9 @@ It is NOT a perfect model simulation
 
 ### Libraries
 
-yFinance: To retrive stock prices
-Numpy: for calcuations and to generate random numbers
-Matplotlib: result visualisations 
+- yFinance: To retrive stock prices
+- Numpy: for calcuations and to generate random numbers
+- Matplotlib: result visualisations 
 
 The stock used is the tesla stock, only the adjusted closing price is stored in the datafreme. 
 
