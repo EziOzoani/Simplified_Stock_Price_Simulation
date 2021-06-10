@@ -31,7 +31,7 @@ Then take the cumulative product of that operation to get the gernated prices fo
 ## Visualisations
 
 
-The Ren Walk of the tesla price of the next 252 trading days based ont e random ganerated numbes in the number distribution
+The Ren Walk of the tesla price of the next 252 trading days based on the random generated number in a normal distribution
 
 ![Ren Walk Image](https://github.com/EziOzoani/Simplified_Stock_Price_Simulation/blob/master/Images/Single%20Ren.png) 
 
